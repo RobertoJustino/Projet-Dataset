@@ -11,5 +11,4 @@
 - Savoir si le score donné par les utilisateurs du site a une corrélation ou non avec le nombre de personnes ayant voté, la popularité et le nombre de favoris.
 (La problématique ici est de savoir si la popularité influence le score ou pas du manga ?)
 
-
-
+le fichier 'archive.zip' contient mon dataset.
